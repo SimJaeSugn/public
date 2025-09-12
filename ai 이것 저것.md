@@ -2,6 +2,7 @@
 ##제미나이를 이용한 App 생성
 
 https://aistudio.google.com/app
+
 입력창 프롬프트
 
 사진을 넣으면 이 사진을 연필로 그린 스케치로 변환해주고  
