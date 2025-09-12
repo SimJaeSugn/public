@@ -1,5 +1,5 @@
-# h1 2025-09-12
-## h2 제미나이를 이용한 App 생성
+#  2025-09-12
+## 제미나이를 이용한 App 생성
 
 https://aistudio.google.com/app
 
