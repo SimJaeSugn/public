@@ -3,9 +3,9 @@ from azure.storage.blob import BlobServiceClient
 
 try:
   print("한국방송통신대학교 클라우드 컴퓨팅 Blob 파일 다운로드")
-  connect_str = "DefaultEndpointsProtocol=https;AccountName=lvtlvt;AccountKey=2he5vxXrv+H9FkIWkv97cw5+iK3kRcrnd5XglR/LfHEJdjhcKhAEFeKBRyE8a8Yp2DAPM8CF/p8Z+AStpxJd5A==;EndpointSuffix=core.windows.net"
+  connect_str = "<연결 문자열>"
   blob_service_client = BlobServiceClient.from_connection_string(connect_str)
-  container_name = "lvtlvtcontainer"
+  container_name = "<컨테이터 이름>"
 
   remote_file_name = "generated-image.png" 
   local_file_name = "generated-image_down.png"
